@@ -24,7 +24,7 @@ diario-oficial-extension/
 Clone o repositório ou baixe o ZIP e extraia em uma pasta de sua preferência.
 
 ```bash
-git clone https://github.com/seu-usuario/plugin-diario-oficial-rgs-procergs.git
+git clone https://github.com/Lucashackd/Plugin-Diario-Oficial-RGS---PROCERGS.git
 ```
 
 > Se preferir baixar o ZIP: clique em **Code → Download ZIP** no GitHub e extraia a pasta.
@@ -41,7 +41,7 @@ edge://extensions
 
 No canto inferior esquerdo da página, ative a opção **Modo de desenvolvedor**.
 
-![Modo de desenvolvedor](https://i.imgur.com/placeholder.png)
+![Modo de desenvolvedor](public/images/devMode.png)
 
 ### 4. Carregue a extensão
 
@@ -83,11 +83,11 @@ Caso você edite algum arquivo da extensão, basta acessar `edge://extensions` e
 
 ## Compatibilidade
 
-| Navegador | Compatível |
-|---|---|
-| Microsoft Edge | ✅ |
-| Google Chrome | ✅ |
-| Firefox | ❌ (usa padrão diferente) |
+| Navegador      | Compatível                |
+| -------------- | ------------------------- |
+| Microsoft Edge | ✅                        |
+| Google Chrome  | ✅                        |
+| Firefox        | ❌ (usa padrão diferente) |
 
 ---
 
