@@ -43,7 +43,7 @@ chrome://extensions/
 
 ### 3. Ative o Modo de desenvolvedor
 
-No canto inferior esquerdo da página, ative a opção **Modo de desenvolvedor**.
+No canto inferior esquerdo da página, ative a opção **Modo de desenvolvedor**. *(Superior direito no Chrome)*
 
 ![Modo de desenvolvedor](public/images/devMode.png)
 
