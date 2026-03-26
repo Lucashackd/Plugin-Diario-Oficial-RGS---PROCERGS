@@ -36,6 +36,10 @@ Na barra de endereço do Edge, acesse:
 ```
 edge://extensions
 ```
+OU
+```
+chrome://extensions/
+```
 
 ### 3. Ative o Modo de desenvolvedor
 
