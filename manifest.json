@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Diario Oficial do Rio Grande do Sul - PROCERGS",
+  "version": "1.0",
+  "description": "Extensão para acessar a página atualizada diariamente do Centro de Tecnologia da Informação e Comunicação do Estado do Rio Grande do Sul no Diário Oficial do Rio Grande do Sul.",
+
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
